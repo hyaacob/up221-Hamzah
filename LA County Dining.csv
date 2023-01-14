@@ -1,0 +1,336 @@
+﻿Application_No_,Amount_Funded,Zip_Code,Supervisorial_District,Round,Entity_Type,District,Date_Business_Established,Industry,Veteran_Status,Ethnicity,Gender,Age_Range_of_Principal,Race,Total___of_Employees_as_of_App_,ObjectId
+22,30000,91755,1,First,Corporation,1,2017/05/01 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,45 - 54,Asian,3,1
+27,30000,91789,1,First,Corporation,1,2019/02/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,25 - 34,Asian,9,2
+33,30000,91731,1,First,Corporation,1,2011/05/04 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,7,3
+36,30000,91711,1,First,Corporation,1,1988/04/29 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,25 - 34,Asian,2,4
+53,30000,91766,1,First,Corporation,1,2019/12/01 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,35 - 44,Asian,5,5
+102,30000,91790,1,First,Sole Proprietor,1,2019/11/13 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,35 - 44,Hispanic / Latino,7,6
+115,30000,91748,1,First,Corporation,1,2005/11/06 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,Asian,19,7
+119,30000,91732,1,First,LLC,1,2019/08/07 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Female,25 - 34,Hispanic / Latino,8,8
+123,30000,91731,1,First,Corporation,1,1967/01/08 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Female,45 - 54,Hispanic / Latino,9,9
+130,30000,90058,1,First,Corporation,1,2003/09/06 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,Asian,3,10
+132,30000,91746,1,First,Corporation,1,2011/04/30 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,55 - 64,Hispanic / Latino,11,11
+152,30000,91754,1,First,LLC,1,2019/03/12 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,3,12
+154,30000,90040,1,First,Corporation,1,1955/10/16 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,21,13
+160,30000,91744,1,First,Corporation,1,2018/12/28 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Female,45 - 54,Hispanic / Latino,3,14
+164,30000,91748,1,First,Corporation,1,2017/04/12 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,3,15
+170,30000,91744,1,First,Corporation,1,1986/09/10 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,65+,Asian,18,16
+185,30000,91790,1,First,Corporation,1,2016/05/15 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,8,17
+193,30000,91789,1,First,Corporation,1,2020/01/02 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,2,18
+237,30000,91702,1,First,LLC,1,2011/04/20 00:00:00+00,Restaurant,Veteran,Not Hispanic / Latino,Male,65+,White,7,19
+360,30000,91754,1,First,Corporation,1,2013/11/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,9,20
+397,30000,91755,1,First,Corporation,1,2011/10/20 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,2,21
+417,30000,91789,1,First,LLC,1,2017/12/07 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,13,22
+444,30000,91770,1,First,Corporation,1,2019/05/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,25 - 34,Asian,8,23
+483,30000,91702,1,First,LLC,1,2013/03/26 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,Prefer not to say,19,24
+487,30000,91006,1,First,Corporation,1,2004/01/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,7,25
+518,30000,91748,1,First,Corporation,1,2018/08/31 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,5,26
+542,30000,90255,1,First,LLC,1,2017/06/02 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,25 - 34,Asian,2,27
+621,30000,91754,1,First,Corporation,1,1980/09/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,Asian,4,28
+635,30000,91792,1,First,Corporation,1,2015/12/09 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,25 - 34,Asian,3,29
+680,30000,90640,1,First,Corporation,1,2004/07/05 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,10,30
+689,30000,91754,1,First,Corporation,1,2014/10/28 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,10,31
+747,30000,91732,1,First,LLC,1,2015/11/15 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,35 - 44,Hispanic / Latino,6,32
+763,30000,90660,1,First,Sole Proprietor,1,1987/04/13 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,25 - 34,Hispanic / Latino,10,33
+768,30000,90022,1,First,Corporation,1,2019/12/17 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,6,34
+843,30000,91731,1,First,Corporation,1,1985/02/10 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,35 - 44,Prefer not to say,3,35
+916,30000,90640,1,First,Corporation,1,2014/01/02 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,Asian,10,36
+1013,30000,91711,1,First,Corporation,1,1996/06/12 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,45 - 54,White,9,37
+17,30000,90249,2,First,Corporation,2,1975/01/06 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,20,38
+34,30000,90232,2,First,Partnership,2,2011/01/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,65+,White,22,39
+49,30000,90249,2,First,LLC,2,2019/07/08 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,Asian,4,40
+120,30000,90247,2,First,Corporation,2,2019/12/29 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,4,41
+126,30000,90230,2,First,Corporation,2,2004/05/12 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,Asian,11,42
+166,30000,90221,2,First,Sole Proprietor,2,2014/06/09 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,35 - 44,Hispanic / Latino,8,43
+182,30000,90220,2,First,Corporation,2,2019/10/04 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,8,44
+215,30000,90262,2,First,Corporation,2,2019/08/01 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Female,35 - 44,Hispanic / Latino,2,45
+217,30000,90047,2,First,LLC,2,1963/11/16 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,African American / Black,8,46
+241,30000,90232,2,First,LLC,2,2014/01/10 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,35 - 44,Hispanic / Latino,23,47
+245,30000,90230,2,First,LLC,2,2014/11/13 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,5,48
+273,30000,90249,2,First,Corporation,2,2018/06/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,Asian,11,49
+318,30000,90232,2,First,LLC,2,2019/10/03 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Bi-Racial,9,50
+439,30000,90247,2,First,Sole Proprietor,2,1958/08/09 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,55 - 64,Asian,2,51
+440,30000,90255,2,First,Corporation,2,2000/12/22 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,55 - 64,Hispanic / Latino,17,52
+665,30000,90301,2,First,Corporation,2,2019/11/07 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,45 - 54,Prefer not to say,8,53
+719,30000,90247,2,First,Corporation,2,2003/01/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,22,54
+725,30000,90232,2,First,Corporation,2,2016/02/16 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Female,35 - 44,Hispanic / Latino,15,55
+755,30000,90247,2,First,LLC,2,2012/03/30 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Female,35 - 44,Hispanic / Latino,25,56
+784,30000,90066,2,First,LLC,2,2013/03/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,18 - 24,White,12,57
+805,30000,90260,2,First,Corporation,2,1976/07/19 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Female,65+,Hispanic / Latino,19,58
+827,30000,90230,2,First,LLC,2,2019/04/15 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,24,59
+842,30000,90247,2,First,Corporation,2,1991/05/15 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,Asian,7,60
+888,30000,90066,2,First,Corporation,2,2013/06/03 00:00:00+00,Restaurant,Veteran,Not Hispanic / Latino,Male,55 - 64,Native Hawaiian / Pacific Islander,10,61
+904,30000,90230,2,First,LLC,2,2017/01/09 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,White,11,62
+938,30000,90020,2,First,Corporation,2,2017/03/15 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,6,63
+970,30000,90247,2,First,Corporation,2,2016/11/22 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,5,64
+997,30000,90232,2,First,Corporation,2,2018/06/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,45 - 54,Asian,5,65
+1059,30000,90066,2,First,Corporation,2,2013/09/13 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,White,12,66
+1239,30000,90232,2,First,Corporation,2,2005/01/01 00:00:00+00,Restaurant,Veteran,Prefer not to say,Male,Prefer not to say,Prefer not to say,9,67
+1294,30000,90248,2,First,Corporation,2,2015/03/24 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,45 - 54,Asian,8,68
+1431,30000,90247,2,First,Sole Proprietor,2,1994/03/15 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,18 - 24,Asian,3,69
+1447,30000,90220,2,First,Corporation,2,2011/04/14 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,3,70
+1569,30000,90247,2,First,Corporation,2,2020/01/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,Asian,19,71
+1593,30000,90232,2,First,Corporation,2,2005/12/23 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,45 - 54,Hispanic / Latino,12,72
+1690,30000,90232,2,First,LLC,2,2016/12/15 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,45 - 54,Prefer not to say,2,73
+1837,30000,90232,2,First,LLC,2,2015/01/02 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,18 - 24,African American / Black,12,74
+13,30000,90265,3,First,LLC,3,2017/08/23 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,25 - 34,Prefer not to say,25,75
+20,30000,90210,3,First,LLC,3,2015/07/21 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Female,35 - 44,Prefer not to say,13,76
+28,30000,90401,3,First,LLC,3,2011/12/09 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,45 - 54,Prefer not to say,3,77
+39,30000,91361,3,First,Corporation,3,2018/07/19 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,45 - 54,Prefer not to say,7,78
+44,30000,90212,3,First,LLC,3,2013/01/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Bi-Racial,11,79
+66,30000,90212,3,First,LLC,3,2018/04/09 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,White,0,80
+82,30000,90401,3,First,Corporation,3,2007/07/10 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,White,12,81
+105,30000,90403,3,First,LLC,3,2014/11/05 00:00:00+00,Restaurant,Veteran,Not Hispanic / Latino,Female,45 - 54,Asian,19,82
+113,30000,90401,3,First,LLC,3,2019/03/19 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,White,2,83
+135,30000,90405,3,First,LLC,3,2015/12/03 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,White,4,84
+187,30000,91340,3,First,LLC,3,2011/11/22 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,45 - 54,Hispanic / Latino,23,85
+199,30000,90211,3,First,Sole Proprietor,3,2008/10/20 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,1,86
+203,30000,91301,3,First,Corporation,3,1987/08/01 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Female,55 - 64,Hispanic / Latino,23,87
+205,30000,90401,3,First,LLC,3,2006/05/03 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,21,88
+225,30000,90069,3,First,Corporation,3,2012/10/31 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,White,12,89
+228,30000,90046,3,First,Corporation,3,2016/05/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,11,90
+236,30000,90210,3,First,LLC,3,2019/07/29 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,45 - 54,Prefer not to say,3,91
+239,30000,90212,3,First,LLC,3,2015/02/06 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,White,2,92
+249,30000,91301,3,First,Corporation,3,2014/12/11 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,White,22,93
+319,30000,90401,3,First,LLC,3,2007/08/24 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,21,94
+326,30000,90405,3,First,Corporation,3,2010/09/08 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,White,5,95
+353,30000,90069,3,First,LLC,3,2007/06/05 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,45 - 54,Prefer not to say,21,96
+381,30000,91340,3,First,Corporation,3,2004/04/30 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,45 - 54,American Indian / Alaskan Native,10,97
+384,30000,90046,3,First,LLC,3,2018/04/01 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Prefer not to say,Prefer not to say,Prefer not to say,25,98
+409,30000,90210,3,First,LLC,3,2018/10/19 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,3,99
+411,30000,90069,3,First,LLC,3,2018/08/29 00:00:00+00,Restaurant,Veteran,Not Hispanic / Latino,Male,35 - 44,White,18,100
+493,30000,90403,3,First,Corporation,3,1981/11/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,65+,Asian,11,101
+716,30000,90069,3,First,LLC,3,2019/02/08 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,White,16,102
+727,30000,90405,3,First,Corporation,3,1969/07/13 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Female,45 - 54,Asian,6,103
+857,30000,90046,3,First,LLC,3,2000/07/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,White,8,104
+861,30000,90212,3,First,Sole Proprietor,3,1995/01/10 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,Asian,3,105
+868,30000,90401,3,First,Corporation,3,2019/02/25 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,24,106
+898,30000,90401,3,First,LLC,3,2011/02/15 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,White,24,107
+971,30000,90069,3,First,Corporation,3,2019/05/10 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,11,108
+1308,30000,90212,3,First,Corporation,3,2016/12/09 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,White,6,109
+1423,30000,90048,3,First,LLC,3,2014/01/09 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,Prefer not to say,Prefer not to say,14,110
+1743,30000,90211,3,First,LLC,3,2019/12/16 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,1,111
+21,30000,90254,4,First,LLC,4,2008/04/03 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Prefer not to say,23,112
+29,30000,90803,4,First,LLC,4,2019/04/12 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,White,22,113
+51,30000,90802,4,First,LLC,4,2016/09/21 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,25 - 34,Asian,1,114
+62,30000,90808,4,First,Corporation,4,2019/09/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,22,115
+77,30000,90803,4,First,LLC,4,2013/05/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,White,20,116
+83,30000,91752,4,First,LLC,4,2017/09/08 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,11,117
+104,30000,90245,4,First,LLC,4,2020/01/23 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,35 - 44,Prefer not to say,7,118
+118,30000,90815,4,First,Corporation,4,2015/03/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Multi-Racial / Other,3,119
+150,30000,90277,4,First,LLC,4,2012/03/12 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,10,120
+179,30000,90706,4,First,Sole Proprietor,4,1941/01/12 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,6,121
+180,30000,91748,4,First,Partnership,4,1985/10/08 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,35 - 44,Asian,12,122
+190,30000,90292,4,First,LLC,4,2002/09/27 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,White,8,123
+194,30000,91765,4,First,Corporation,4,2016/04/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,2,124
+195,30000,90277,4,First,Corporation,4,2018/03/27 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,White,5,125
+197,30000,90602,4,First,Corporation,4,2008/10/30 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Female,45 - 54,Hispanic / Latino,12,126
+206,30000,90278,4,First,LLC,4,1971/04/04 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,18 - 24,African American / Black,5,127
+210,30000,90602,4,First,Corporation,4,2001/09/14 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,55 - 64,Hispanic / Latino,4,128
+219,30000,91745,4,First,Sole Proprietor,4,2006/07/31 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,35 - 44,Hispanic / Latino,8,129
+235,30000,91765,4,First,Corporation,4,1984/10/17 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,65+,Asian,8,130
+246,30000,90701,4,First,Corporation,4,1992/11/28 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,25 - 34,Asian,12,131
+262,30000,90807,4,First,Corporation,4,2016/02/01 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,18 - 24,African American / Black,15,132
+267,30000,90802,4,First,Partnership,4,2016/03/11 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,45 - 54,Prefer not to say,12,133
+271,30000,90277,4,First,LLC,4,2015/05/25 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,55 - 64,Prefer not to say,3,134
+301,30000,90715,4,First,Corporation,4,2019/03/11 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,Asian,4,135
+338,30000,91748,4,First,Corporation,4,2011/10/25 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,18 - 24,African American / Black,18,136
+343,30000,90638,4,First,Corporation,4,1975/04/06 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,5,137
+347,30000,90505,4,First,Corporation,4,2015/03/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,White,6,138
+375,30000,91748,4,First,Corporation,4,2011/05/11 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,45 - 54,Asian,5,139
+422,30000,91748,4,First,Corporation,4,2014/08/14 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,45 - 54,Asian,3,140
+452,30000,91748,4,First,Corporation,4,2018/09/11 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,45 - 54,Asian,8,141
+460,30000,90703,4,First,Corporation,4,2015/01/20 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,25 - 34,Prefer not to say,14,142
+533,30000,90807,4,First,Corporation,4,2016/03/22 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,White,14,143
+534,30000,90638,4,First,Sole Proprietor,4,2006/07/01 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,18 - 24,African American / Black,4,144
+570,30000,90505,4,First,Corporation,4,1997/04/21 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,9,145
+608,30000,90717,4,First,LLC,4,2013/05/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,Asian,6,146
+625,30000,90701,4,First,Corporation,4,2010/10/25 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,11,147
+644,30000,91765,4,First,Corporation,4,2017/12/15 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,7,148
+16,30000,91776,5,First,Sole Proprietor,5,2011/06/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,Asian,17,149
+30,30000,91780,5,First,Corporation,5,2018/07/18 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,Asian,2,150
+37,30000,91351,5,First,Corporation,5,2015/10/19 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,55 - 64,Asian,2,151
+41,30000,91504,5,First,Corporation,5,2003/08/27 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Prefer not to say,16,152
+46,30000,91776,5,First,Corporation,5,2020/01/24 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,18 - 24,Asian,2,153
+58,30000,91750,5,First,LLC,5,2017/01/07 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,25 - 34,American Indian / Alaskan Native,6,154
+71,30000,91016,5,First,Corporation,5,2011/04/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Native Hawaiian / Pacific Islander,9,155
+91,30000,93551,5,First,Corporation,5,2018/03/08 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,12,156
+94,30000,91505,5,First,LLC,5,2016/03/07 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,45 - 54,Hispanic / Latino,11,157
+106,30000,91204,5,First,Sole Proprietor,5,2019/01/01 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,55 - 64,African American / Black,2,158
+107,30000,93536,5,First,Corporation,5,2019/09/17 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,12,159
+108,30000,91016,5,First,Corporation,5,2014/06/13 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,35 - 44,White,18,160
+133,30000,91007,5,First,LLC,5,2014/04/14 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,5,161
+153,30000,93534,5,First,Sole Proprietor,5,2012/08/12 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Female,55 - 64,Hispanic / Latino,1,162
+167,30000,91030,5,First,LLC,5,2016/10/05 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Female,25 - 34,Hispanic / Latino,11,163
+169,30000,91203,5,First,Corporation,5,2016/03/06 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,White,24,164
+172,30000,93536,5,First,Corporation,5,2019/10/10 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,55 - 64,Asian,10,165
+178,30000,91505,5,First,Corporation,5,2011/10/01 00:00:00+00,Restaurant,Veteran,Hispanic / Latino,Male,35 - 44,Prefer not to say,24,166
+192,30000,93552,5,First,Corporation,5,2018/01/11 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,13,167
+201,30000,91750,5,First,Corporation,5,2015/07/15 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,White,2,168
+1354,30000,90301,2,Second,LLC,2,2016/07/21 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,25 - 34,Hispanic / Latino,5,169
+1445,30000,90230,2,Second,Corporation,2,1931/03/04 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Female,65+,Multi-Racial / Other,9,170
+1475,30000,90232,2,Second,Corporation,2,2002/11/26 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,African American / Black,13,171
+1818,30000,90230,2,Second,Corporation,2,2016/12/07 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,45 - 54,Prefer not to say,4,172
+1828,30000,90249,2,Second,Sole Proprietor,2,2004/10/04 00:00:00+00,Restaurant,Veteran,Not Hispanic / Latino,Male,65+,Asian,4,173
+1875,30000,90230,2,Second,Corporation,2,2017/04/17 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Multi-Racial / Other,1,174
+1910,30000,90232,2,Second,Corporation,2,2019/07/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,Prefer not to say,5,175
+1914,30000,90260,2,Second,LLC,2,2011/10/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,23,176
+1923,30000,90247,2,Second,Corporation,2,1982/11/23 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,Asian,4,177
+1950,30000,90220,2,Second,Corporation,2,2015/01/07 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,18 - 24,White,3,178
+1976,30000,90220,2,Second,Corporation,2,2018/11/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,45 - 54,Asian,4,179
+2013,30000,90247,2,Second,Corporation,2,2019/01/30 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,Asian,4,180
+2042,30000,90232,2,Second,LLC,2,2020/01/20 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,White,13,181
+2073,30000,90230,2,Second,Sole Proprietor,2,1951/09/28 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,65+,Asian,2,182
+2109,30000,90232,2,Second,Corporation,2,2008/12/12 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,5,183
+2173,30000,90232,2,Second,LLC,2,1971/06/08 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,7,184
+2220,30000,90249,2,Second,Sole Proprietor,2,2007/04/20 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,6,185
+2262,30000,90247,2,Second,Corporation,2,1987/02/17 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,African American / Black,18,186
+2386,30000,90230,2,Second,LLC,2,2019/01/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,3,187
+2482,30000,90710,2,Second,Corporation,2,2019/04/16 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,8,188
+2586,30000,90260,2,Second,Corporation,2,2017/09/07 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,45 - 54,Hispanic / Latino,12,189
+110,30000,90404,3,Second,LLC,3,2014/02/10 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,2,190
+151,30000,91301,3,Second,Corporation,3,2019/10/29 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,6,191
+264,30000,90405,3,Second,LLC,3,2015/09/26 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,45 - 54,Hispanic / Latino,20,192
+312,30000,91340,3,Second,Partnership,3,2010/03/10 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Multi-Racial / Other,2,193
+442,30000,90046,3,Second,LLC,3,2017/05/12 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,35 - 44,Prefer not to say,12,194
+451,30000,91301,3,Second,Corporation,3,2016/11/28 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,8,195
+469,30000,91301,3,Second,Corporation,3,2016/04/16 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,White,12,196
+477,30000,90212,3,Second,LLC,3,2018/03/31 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,12,197
+573,30000,90265,3,Second,Corporation,3,2016/02/02 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,Multi-Racial / Other,23,198
+580,30000,90404,3,Second,LLC,3,2018/02/09 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,White,6,199
+596,30000,91340,3,Second,Corporation,3,2018/01/15 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,25 - 34,Hispanic / Latino,16,200
+693,30000,91302,3,Second,Corporation,3,2013/04/22 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,White,22,201
+736,30000,90069,3,Second,LLC,3,2018/02/01 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,55 - 64,African American / Black,20,202
+769,30000,90405,3,Second,Corporation,3,1980/11/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,65+,Multi-Racial / Other,16,203
+894,30000,90211,3,Second,Corporation,3,2019/01/25 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,3,204
+901,30000,90403,3,Second,Corporation,3,1981/05/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,65+,White,15,205
+934,30000,90405,3,Second,Partnership,3,2011/12/23 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,65+,White,18,206
+1043,30000,90046,3,Second,LLC,3,2003/02/03 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,10,207
+1055,30000,90401,3,Second,Corporation,3,2006/08/01 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,55 - 64,Prefer not to say,9,208
+1106,30000,90403,3,Second,Corporation,3,1956/11/03 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,7,209
+1144,30000,90046,3,Second,Corporation,3,2017/02/03 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,4,210
+1155,30000,90211,3,Second,LLC,3,2012/11/29 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,19,211
+1210,30000,90212,3,Second,Corporation,3,1998/12/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,65+,Asian,20,212
+1240,30000,91340,3,Second,Sole Proprietor,3,2013/03/01 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,65+,Hispanic / Latino,8,213
+1421,30000,90404,3,Second,Corporation,3,2007/05/08 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,65+,Asian,2,214
+1435,30000,90405,3,Second,Partnership,3,2006/12/01 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Prefer not to say,Prefer not to say,Prefer not to say,16,215
+1451,30000,91608,3,Second,Corporation,3,2017/07/10 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,8,216
+1460,30000,90212,3,Second,LLC,3,2017/10/17 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,White,3,217
+1517,30000,90404,3,Second,Partnership,3,1994/10/22 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,65+,Prefer not to say,19,218
+1539,30000,91340,3,Second,Corporation,3,2017/02/03 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,55 - 64,Hispanic / Latino,4,219
+183,30000,91748,4,Second,Corporation,4,2017/12/15 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Female,25 - 34,Asian,1,220
+200,30000,90814,4,Second,Corporation,4,2018/12/10 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,White,12,221
+212,30000,90803,4,Second,LLC,4,2018/12/18 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,18 - 24,Multi-Racial / Other,23,222
+227,30000,90803,4,Second,Corporation,4,2013/03/10 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Female,45 - 54,Hispanic / Latino,4,223
+260,30000,90254,4,Second,Sole Proprietor,4,2017/07/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,45 - 54,Asian,0,224
+296,30000,91748,4,Second,LLC,4,2018/11/02 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,25 - 34,Asian,5,225
+299,30000,90504,4,Second,Corporation,4,1998/05/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,45 - 54,Asian,8,226
+305,30000,91765,4,Second,LLC,4,2008/02/15 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,45 - 54,Prefer not to say,2,227
+309,30000,90278,4,Second,Corporation,4,2018/01/23 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,8,228
+330,30000,90277,4,Second,Corporation,4,2005/05/05 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,45 - 54,White,14,229
+350,30000,91745,4,Second,Corporation,4,2018/01/08 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,3,230
+352,30000,90242,4,Second,Corporation,4,2015/05/18 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,45 - 54,Hispanic / Latino,8,231
+356,30000,90712,4,Second,Corporation,4,2014/03/14 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,White,17,232
+363,30000,90803,4,Second,LLC,4,2017/01/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,65+,Multi-Racial / Other,12,233
+370,30000,90254,4,Second,Corporation,4,2001/09/07 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,White,10,234
+414,30000,90245,4,Second,Corporation,4,2007/04/01 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,55 - 64,Multi-Racial / Other,15,235
+425,30000,90278,4,Second,Corporation,4,2019/07/27 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Female,35 - 44,Hispanic / Latino,11,236
+458,30000,90266,4,Second,LLC,4,2017/09/17 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,White,6,237
+540,30000,90501,4,Second,Sole Proprietor,4,1964/12/28 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,White,12,238
+618,30000,91748,4,Second,LLC,4,2015/11/04 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Female,35 - 44,Prefer not to say,2,239
+671,30000,90703,4,Second,Corporation,4,2015/11/07 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,3,240
+686,30000,90717,4,Second,Corporation,4,2006/06/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,Asian,8,241
+728,30000,90701,4,Second,Corporation,4,2014/03/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,Asian,4,242
+756,30000,90815,4,Second,Corporation,4,2003/10/01 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Female,45 - 54,Prefer not to say,12,243
+860,30000,90717,4,Second,Corporation,4,2017/05/30 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,23,244
+973,30000,90638,4,Second,LLC,4,2016/05/24 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,8,245
+1001,30000,90703,4,Second,Corporation,4,2017/04/03 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,2,246
+1114,30000,90277,4,Second,Corporation,4,1969/12/03 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,45 - 54,Prefer not to say,7,247
+1118,30000,90248,4,Second,Corporation,4,2016/06/20 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,6,248
+1187,30000,90802,4,Second,LLC,4,2013/02/11 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,22,249
+75,30000,91006,5,Second,Corporation,5,2019/06/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,6,250
+92,30000,91210,5,Second,Corporation,5,1983/10/11 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,35 - 44,Prefer not to say,17,251
+112,30000,91011,5,Second,Corporation,5,1999/09/02 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,18 - 24,Asian,4,252
+204,30000,91350,5,Second,Sole Proprietor,5,2008/07/22 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,45 - 54,Asian,18,253
+240,30000,91776,5,Second,Corporation,5,2014/01/31 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,5,254
+244,30000,91801,5,Second,Corporation,5,2020/01/23 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,13,255
+256,30000,91030,5,Second,Corporation,5,2005/07/03 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,24,256
+297,30000,91020,5,Second,Corporation,5,2016/03/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,Asian,5,257
+331,30000,91381,5,Second,LLC,5,2001/06/12 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,20,258
+395,30000,91780,5,Second,LLC,5,2015/01/01 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,45 - 54,Prefer not to say,9,259
+454,30000,91381,5,Second,Corporation,5,2017/07/11 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,45 - 54,White,13,260
+478,30000,93534,5,Second,Sole Proprietor,5,2006/09/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,65+,Asian,2,261
+500,30000,91750,5,Second,Corporation,5,2018/05/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,45 - 54,Asian,8,262
+523,30000,91016,5,Second,Corporation,5,2008/03/13 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,35 - 44,Prefer not to say,8,263
+530,30000,91016,5,Second,Corporation,5,2017/07/30 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,13,264
+567,30000,91355,5,Second,Corporation,5,1983/01/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,Asian,19,265
+572,30000,91350,5,Second,Corporation,5,2011/10/21 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,15,266
+578,30000,91355,5,Second,Corporation,5,2018/12/12 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,45 - 54,Asian,13,267
+615,30000,91007,5,Second,Corporation,5,2016/02/10 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,Asian,15,268
+662,30000,91007,5,Second,LLC,5,2016/01/19 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,Asian,8,269
+685,30000,91203,5,Second,LLC,5,2017/10/11 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,21,270
+709,30000,91321,5,Second,LLC,5,2005/08/19 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,6,271
+712,30000,91750,5,Second,Corporation,5,2014/01/27 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,7,272
+723,30000,93534,5,Second,Corporation,5,2014/06/06 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Female,45 - 54,Hispanic / Latino,12,273
+772,30000,91355,5,Second,Corporation,5,1956/01/03 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,55 - 64,Multi-Racial / Other,23,274
+792,30000,91203,5,Second,Corporation,5,2014/05/06 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,White,8,275
+953,30000,91024,5,Second,Corporation,5,2016/08/09 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Prefer not to say,16,276
+978,30000,91024,5,Second,Corporation,5,2017/05/07 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,4,277
+1061,30000,91208,5,Second,Corporation,5,2014/02/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,9,278
+1070,30000,91776,5,Second,Corporation,5,2015/04/15 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,8,279
+208,30000,91351,5,First,Corporation,5,1991/06/06 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,65+,American Indian / Alaskan Native,23,280
+229,30000,91506,5,First,Corporation,5,2016/10/15 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,65+,White,5,281
+253,30000,93550,5,First,Sole Proprietor,5,2017/01/10 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,18 - 24,African American / Black,6,282
+258,30000,91204,5,First,LLC,5,2017/02/28 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,White,6,283
+288,30000,91006,5,First,Corporation,5,2019/08/03 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,7,284
+298,30000,93535,5,First,Corporation,5,2018/11/05 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,White,11,285
+300,30000,91502,5,First,LLC,5,2016/09/14 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,10,286
+376,30000,91006,5,First,Corporation,5,2018/01/18 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,10,287
+429,30000,91203,5,First,LLC,5,2019/09/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,16,288
+435,30000,91502,5,First,Corporation,5,2016/03/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Bi-Racial,11,289
+474,30000,91203,5,First,LLC,5,2015/02/07 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,White,9,290
+514,30000,91505,5,First,LLC,5,2006/06/16 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,7,291
+516,30000,93536,5,First,Sole Proprietor,5,2018/10/10 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,13,292
+520,30000,91773,5,First,Corporation,5,2014/08/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,65+,White,8,293
+535,30000,91801,5,First,LLC,5,1959/07/03 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Prefer not to say,Prefer not to say,Prefer not to say,13,294
+692,30000,91748,5,First,Corporation,5,1999/12/20 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,65+,Asian,3,295
+3407,30000,91321,5,First,Corporation,5,2006/06/24 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,6,296
+81,30000,91754,1,Second,Corporation,1,2019/10/23 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,65+,Prefer not to say,4,297
+85,30000,91789,1,Second,LLC,1,2017/07/07 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,35 - 44,Asian,15,298
+99,30000,91007,1,Second,Corporation,1,2019/06/08 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,16,299
+125,30000,91754,1,Second,Corporation,1,2018/08/06 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,2,300
+148,30000,90255,1,Second,Sole Proprietor,1,1985/03/20 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,65+,Hispanic / Latino,8,301
+351,30000,91711,1,Second,LLC,1,2009/04/20 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,White,9,302
+394,30000,91711,1,Second,Corporation,1,1985/10/15 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Female,55 - 64,Prefer not to say,19,303
+605,30000,91790,1,Second,Corporation,1,2014/03/25 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Asian,10,304
+616,30000,91770,1,Second,Corporation,1,2001/03/06 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,7,305
+631,30000,91748,1,Second,LLC,1,2018/04/23 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,25 - 34,Asian,7,306
+650,30000,90660,1,Second,Corporation,1,2013/06/01 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,35 - 44,Hispanic / Latino,2,307
+651,30000,91792,1,Second,LLC,1,2019/01/02 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,13,308
+722,30000,91748,1,Second,Corporation,1,1992/02/08 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,25 - 34,Asian,6,309
+742,30000,91744,1,Second,Sole Proprietor,1,1948/10/11 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,Prefer not to say,African American / Black,3,310
+774,30000,91748,1,Second,Corporation,1,2007/01/25 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,21,311
+782,30000,91702,1,Second,Corporation,1,2019/01/22 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,45 - 54,Asian,6,312
+914,30000,90640,1,Second,LLC,1,2018/06/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,35 - 44,Multi-Racial / Other,22,313
+915,30000,90040,1,Second,Corporation,1,2014/08/20 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,Asian,1,314
+925,30000,90660,1,Second,LLC,1,2015/10/15 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,35 - 44,Prefer not to say,24,315
+1024,30000,90040,1,Second,Corporation,1,2014/02/02 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,35 - 44,Prefer not to say,2,316
+1029,30000,91748,1,Second,Corporation,1,2018/05/04 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,5,317
+1083,30000,90201,1,Second,Corporation,1,1983/12/03 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,18 - 24,African American / Black,22,318
+1134,30000,91744,1,Second,Sole Proprietor,1,2020/03/01 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,55 - 64,Hispanic / Latino,4,319
+1164,30000,91732,1,Second,Corporation,1,2011/05/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,Asian,20,320
+1181,30000,91791,1,Second,Corporation,1,2018/05/14 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,55 - 64,Asian,5,321
+1226,30000,91702,1,Second,Corporation,1,1972/09/05 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,45 - 54,Asian,4,322
+1249,30000,91732,1,Second,Corporation,1,2014/09/29 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,6,323
+1427,30000,91706,1,Second,LLC,1,2013/02/20 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,2,324
+1523,30000,91706,1,Second,Corporation,1,2019/07/30 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,6,325
+1641,30000,91770,1,Second,Corporation,1,2017/02/01 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Male,55 - 64,Prefer not to say,10,326
+198,30000,90232,2,Second,Corporation,2,2009/08/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,45 - 54,White,9,327
+423,30000,90230,2,Second,LLC,2,2014/06/02 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Female,35 - 44,Prefer not to say,3,328
+501,30000,90502,2,Second,LLC,2,2010/11/29 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,White,9,329
+741,30000,90250,2,Second,LLC,2,2019/11/02 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Male,35 - 44,Hispanic / Latino,6,330
+933,30000,90249,2,Second,Corporation,2,2019/01/10 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,6,331
+955,30000,90066,2,Second,Corporation,2,2005/01/01 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Female,55 - 64,Asian,10,332
+989,30000,90247,2,Second,Corporation,2,2010/01/07 00:00:00+00,Restaurant,Non-Veteran,Not Hispanic / Latino,Male,55 - 64,Multi-Racial / Other,19,333
+1035,30000,90059,2,Second,Sole Proprietor,2,1980/05/07 00:00:00+00,Restaurant,Non-Veteran,Prefer not to say,Female,55 - 64,African American / Black,20,334
+1148,30000,90302,2,Second,Corporation,2,2016/01/01 00:00:00+00,Restaurant,Non-Veteran,Hispanic / Latino,Female,55 - 64,Hispanic / Latino,14,335
